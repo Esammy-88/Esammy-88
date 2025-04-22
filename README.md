@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/sammy-eyongorock) • [Portfolio Website](#) • [Email](mailto:eyongsammy72@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sammy-eyongorock) • [Portfolio Website](#) • [Email](eyongsammy72@gmail.com)
 
