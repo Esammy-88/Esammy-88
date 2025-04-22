@@ -37,7 +37,7 @@
 -           -Electronic Arts Software Development Job Simulation
 -           -Mastercard Cybersecurity Analyst Job Simulation 
 - [Certificate Electronic Arts]()
-- [Certificate Mastercard](MasterCard Job Simulation Certificate.pdf)
+- [Certificate Mastercard](./MasterCard Job Simulation Certificate.pdf)
 
 ---
 
