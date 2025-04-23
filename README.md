@@ -5,7 +5,7 @@
 🚀 Seeking Summer 2025 internships & co-op roles
 
 ## 🔧 Skills
-- Languages: Python, Java, C, JavaScript, SQL, Go, Racket  
+- Languages: Python, Java, C/C++, JavaScript, SQL, Go, Racket  
 - Web: HTML/CSS, React, Tailwind, Flask, Node.js  
 - Data: Pandas, NumPy, Jupyter, matplotlib, Scikit-learn  
 - Tools: Git, VS Code, Figma, AWS, Linux, Fusion 360
