@@ -2,7 +2,7 @@
 
 🎓 3rd-Year Software Engineering @ Carleton University  
 💻 Multidisciplinary: Full-stack Dev • Data Science • Systems Design  
-🚀 Seeking Fall 2025 internships & co-op roles
+🚀 Seeking Winter 2026 internships & co-op roles
 
 ## 🔧 Skills
 - Languages: Python, Java, C/C++, JavaScript, SQL, Go, Racket  
