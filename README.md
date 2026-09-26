@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sammy Eyongorock!
 
-🎓 3rd-Year Software Engineering @ Carleton University  
-💻 Multidisciplinary: Full-stack Dev • Data Science • Systems Design  
-🚀 Seeking Winter 2026 internships & co-op roles
+🎓 Final-Year Software Engineering @ Carleton University  
+💻 Multidisciplinary: Full-stack Dev • Embedded Systems • Systems Design  
 
 ## 🔧 Skills
 - Languages: Python, Java, C/C++, JavaScript, SQL, Go, Racket  
